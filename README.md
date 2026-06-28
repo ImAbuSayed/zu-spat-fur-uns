@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zu-spat-fur-uns/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Zu spät für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zu-spat-fur-uns/) |
+| **Get License** | [Secure Licensing Rights for Zu spät für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zu-spat-fur-uns/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3f928d0480160b34c97f59c4e1a148d60dad6b0ff0c987f11e1db1adfe314103` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

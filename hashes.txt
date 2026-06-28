@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Zu spät für uns
+
+This log tracks the cryptographic history and versioning for the song **Zu spät für uns** (zu-spat-fur-uns).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T14:08:55.632247 | `v1` | `3f928d0480160b34c97f59c4e1a148d60dad6b0ff0c987f11e1db1adfe314103` | `81ebac818a1694ea796b012601ad4f31b39192a18bc585a12046efd7beaa826a` | `2026-06-28_zu-spat-fur-uns-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
