@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zu-spat-fur-uns/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Zu spät für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zu-spat-fur-uns/) |
+| **Get License** | [Commercial Licensing for Zu spät für uns](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zu-spat-fur-uns/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Straßen sind leer, Baby, wir sind allein
+> Dein Blick trifft mich tief im Neonlichtschein
+> Steig ein in den Wagen, spür den Bass, spür den Vibe
+> Es ist zu spät für uns, doch wir stoppen die Zeit
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
